@@ -1,5 +1,5 @@
 #includestdio.h>
 voidmain()
 {
-    pritn("Hello frnds chai pillo");
+    print("Hello frnds chai pillo");
 }
